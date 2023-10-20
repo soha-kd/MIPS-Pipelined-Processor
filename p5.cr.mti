@@ -1,0 +1,28 @@
+C:/Users/Fatima/Desktop/m3/p3.v {1 {vlog -work work -nocovercells C:/Users/Fatima/Desktop/m3/p3.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module DataMem
+-- Compiling module InstMem
+-- Compiling module ShiftLeft
+-- Compiling module signExtend
+-- Compiling module PC
+-- Compiling module ALU_Adder
+-- Compiling module FullAdder
+-- Compiling module ALU32bits
+-- Compiling module Controlunit
+-- Compiling module RegisterFile32bits
+-- Compiling module IF_ID
+-- Compiling module ID_EX
+-- Compiling module EX_M
+-- Compiling module M_WB
+-- Compiling module mux2bits
+-- Compiling module mux3bits
+-- Compiling module hazardunit
+-- Compiling module forwardingunit
+-- Compiling module Datapath
+-- Compiling module MIPS_PP
+-- Compiling module MIPS_PP_tb
+
+Top level modules:
+	MIPS_PP_tb
+
+} {} {}}
